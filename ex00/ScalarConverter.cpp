@@ -6,7 +6,7 @@
 /*   By: aaycan <aaycan@student.42kocaeli.com.tr    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/26 04:59:23 by aaycan            #+#    #+#             */
-/*   Updated: 2026/10/27 05:28:03 by aaycan           ###   ########.fr       */
+/*   Updated: 2026/10/29 01:46:10 by aaycan           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@
 #include <limits>
 #include <sstream>
 #include <iomanip>
+#include <iostream>
 
 enum e_type
 {
